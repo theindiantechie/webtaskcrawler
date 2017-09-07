@@ -1,0 +1,13 @@
+{
+  "name": "scrape",
+  "version": "0.0.1",
+  "description": "Scraping Amazon, Flipkart and Paytm",
+  "main": "scrape.js",
+  "author": "Aditya V R R",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "xpath" : "latest",
+    "xmldom" : "latest"
+  }
+}
